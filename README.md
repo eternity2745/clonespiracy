@@ -1,20 +1,19 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Clonespiracy 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name : NullPointer
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Devannarayan V S - Rajiv Gandhi Institute of Technology , Kottayam
+- Member 2: Aron Eapen Thomas - Rajiv Gandhi Institute of Technology , Kottayam
 
 ### Project Description
-[2-3 lines about what your project does]
+To prove the validity of the malayalam proverb "oraale pole ezhu per ondaavum"
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
