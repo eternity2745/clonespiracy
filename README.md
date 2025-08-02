@@ -24,15 +24,11 @@ To prove the validity of the malayalam proverb "oraale pole ezhu per ondaavum"
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Dart.
+- Flutter
+- Langchain Module,Firestore,Provider.
+- Firebase,Cloudinary.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
