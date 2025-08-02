@@ -47,14 +47,21 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+![login](https://github.com/user-attachments/assets/aca03ad9-38bb-48da-aa08-3d0a4c8e2e90)
+Caption:Login Page of Conespiracy App
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+![home_page](https://github.com/user-attachments/assets/6e835e41-b8c7-4300-830e-2f26273089bf)
+Caption:Home Page of Conespiracy App
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]
+![result](https://github.com/user-attachments/assets/20e4f815-7d07-4e9b-9c7f-5c813e81d2ba)
+Caption:Similarity result
+
+![Screenshot4]
+![history](https://github.com/user-attachments/assets/c3691482-f0dd-4ecf-820f-f90cf9b85540)
+Caption:History of past records
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
