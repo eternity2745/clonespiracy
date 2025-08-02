@@ -13,13 +13,18 @@
 - Member 2: Aron Eapen Thomas - Rajiv Gandhi Institute of Technology , Kottayam
 
 ### Project Description
-To prove the validity of the malayalam proverb "oraale pole ezhu per ondaavum"
+Clonespiracy is a groundbreaking (and totally unnecessary) AI-powered app designed to validate one of Kerala’s most suspiciously accurate proverbs: "Oraale pole ezhu per ondaavum" (There are seven people in the world who look alike). Through the use of face analysis, roast generation, and lookalike detection, Clonespiracy seeks to find your visual duplicates — and then gently (or savagely) roast you for being just another copy in the simulation.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Too many people walk around believing they’re one of a kind. Some even think they’re "built different." This delusional sense of uniqueness threatens the delicate balance of roast culture, meme production, and clone-based conspiracy theories. Clearly, the world needs a tool to shatter egos and confirm suspicions that we’re all just Ctrl+C/Ctrl+V’d by the universe.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing Clonespiracy — the completely unnecessary yet irresistibly fun app that:
+Scans your face using AI 
+Finds your visual duplicates aka "Clone Squad" 
+Generates brutally funny roasts 
+Gives you a “Clone Rank” and similarity score
+And even lets you talk to your AI clone like a confused mirror
 
 ## Technical Details
 ### Technologies/Components Used
